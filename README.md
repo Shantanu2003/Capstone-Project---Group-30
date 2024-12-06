@@ -8,7 +8,6 @@
 
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
-The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](https://link.harshgupta.com/acd72). 
 
 ## Table of contents
 * [General info](#general-info)
@@ -24,8 +23,8 @@ The project was completed in 24 hours as part of HackUNT-19, the University of N
 
 ## General info
 
-The theme at HACK UNT 19 was to use technology to improve accessibility by finding a creative solution to benefit the lives of those with a disability. 
-We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs, so we designed the app to work as a personal translator 24*7 for the deaf people.
+This project is a capstone initiative developed by Group 30, focused on leveraging technology to bridge communication gaps. The aim is to create an innovative solution that empowers individuals with hearing disabilities to communicate effectively and independently. By combining advanced techniques in artificial intelligence and real-time processing, the application serves as a personal translator, fostering inclusivity and enhancing accessibility for millions of people worldwide.
+
 
 ## Demo
 ![Example screenshot](./img/demo4.gif)
