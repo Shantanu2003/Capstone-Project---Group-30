@@ -36,7 +36,6 @@ This project is a capstone initiative developed by Group 30, focused on leveragi
 ## Screenshots
 
 ![Example screenshot](./img/Capture1.PNG)
-![Example screenshot](./img/Capture.PNG)
 
 ## Technologies and Tools
 * Python 
