@@ -26,10 +26,10 @@ This project is a capstone initiative developed by Group 30, focused on leveragi
 ## Demo
 
 ![Example screenshot](./img/demo4.gif)
-![Demo 1](./Demo2.gif)
-![Demo 3](./img/demo3.gif)  
-![Demo 4](./img/demo4.gif)  
-![Demo 5](./img/demo5.gif)
+![Demo 3](./img/Demo3.gif)  
+![Demo 3](./img/Demo3.gif)  
+![Demo 4](./img/Demo4.gif)  
+![Demo 5](./img/Demo5.gif)
 
 
 
