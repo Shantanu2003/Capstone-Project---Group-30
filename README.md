@@ -18,6 +18,7 @@
 * [Setup](#setup)
 * [Process](#process)
 * [Features](#features)
+* [Copyright](#copyright)
 
 ## General info
 
@@ -79,4 +80,10 @@ Features that can be added:
 * Increase the vocabulary of our model
 * Incorporate feedback mechanism to make the model more robust
 * Add more sign languages
+
+## Copyright 
+© 2024 Shantanu Singh Verma. All Rights Reserved. ✨
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 
