@@ -25,11 +25,11 @@ This project is a capstone initiative developed by Group 30, focused on leveragi
 
 ## Demo
 
-<img src="./img/Demo1.gif" width="100%" />
-![Demo 2](./img/Demo2.gif)  
-![Demo 3](./img/Demo3.gif)  
-![Demo 4](./img/Demo4.gif)  
-![Demo 5](./img/Demo5.gif)
+<img src="./img/Demo1.gif" alt="Demo 1" width="100%">
+<img src="./img/Demo2.gif" alt="Demo 1" width="100%">
+<img src="./img/Demo3.gif" alt="Demo 1" width="100%">
+<img src="./img/Demo4.gif" alt="Demo 1" width="100%">
+<img src="./img/Demo5.gif" alt="Demo 1" width="100%">
 
 
 
