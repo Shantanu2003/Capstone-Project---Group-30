@@ -12,6 +12,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Demo](#demo)
+* [Output](#output)
 * [Screenshots](#screenshots)
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
@@ -24,6 +25,13 @@ This project is a capstone initiative developed by Group 30, focused on leveragi
 
 
 ## Demo
+
+### Watch the full code here:
+
+[![Demo Image](./img/Thumbnail.jpg)](https://youtu.be/QEgPmLAOSdw)
+
+
+## Output
 
 <img src="./img/Demo1.gif" alt="Demo 1" width="100%">
 <img src="./img/Demo2.gif" alt="Demo 1" width="100%">
