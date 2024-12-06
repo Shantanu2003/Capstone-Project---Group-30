@@ -11,8 +11,8 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Demo](#demo)
+* [Screenshots](#screenshots)
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
 * [Process](#process)
@@ -65,7 +65,7 @@ This will help you in installing all the libraries required for the project.
 
 
 ## Features
-Our model was able to predict the 44 characters in the ASL with a prediction accuracy >95%.
+Our model was able to predict the 6 classes of gestures with a prediction accuracy of over 98%.
 
 Features that can be added:
 * Deploy the project on cloud and create an API for using it.
